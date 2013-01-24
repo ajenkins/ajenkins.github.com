@@ -10,6 +10,7 @@ Also: I added an image, which gets removed by Reader
 
 What has been correctly implemented:
 Reader works!
+Page passes W3C validation!
 
 What hasn't been correctly implemented:
 Nothing
