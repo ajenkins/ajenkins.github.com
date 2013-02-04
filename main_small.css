@@ -6,19 +6,17 @@ body {
 }
 
 p {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 
 .shadow {
     color: #222;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     text-shadow: #000000 1px 1px 1px;
 }
 
 #pic {
-    float: none;
+    display: block;
     margin-right: auto;
     margin-left: auto;
     border: 2px solid #ccc;
