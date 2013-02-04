@@ -1,12 +1,10 @@
 body {
     font: 1em "Helvetica Neue", Helvetica, Arial;
-    background-color: #EFEFEF;
+    background-color: #f8f8f8;
     margin-left: auto;
     margin-right: auto;
     width: 55em;
-}
-
-p {
+    color: #222;
 }
 
 .position {
