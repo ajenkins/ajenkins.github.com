@@ -1,0 +1,25 @@
+body {
+    font: 10em "Helvetica Neue", Helvetica, Arial;
+    background-color: #f8f8f8;
+    padding-top: 20px;
+    color: #444;
+}
+
+p {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.shadow {
+    color: #222;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: #000000 1px 1px 1px;
+}
+
+#pic {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #ccc;
+}
