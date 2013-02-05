@@ -1,14 +1,18 @@
 body {
-    font: 1em "Helvetica Neue", Helvetica, Arial;
+    font: 1.5em "Helvetica Neue", Helvetica, Arial;
     background-color: #f8f8f8;
     margin-left: auto;
     margin-right: auto;
-    width: 55em;
+    width: 20em;
     color: #222;
 }
 
 .position {
     font-style: italic;
+}
+
+.education {
+    font-weight: bold;
 }
 
 .shadow {

@@ -11,6 +11,10 @@ body {
     font-style: italic;
 }
 
+.education {
+    font-weight: bold;
+}
+
 .shadow {
     margin-left: 1em;
     text-shadow: #000000 1px 1px 1px;
