@@ -262,6 +262,10 @@ img {
 My Styles
 *******************************************************************************/
 
+.no-highlight {
+  color: white;
+}
+
 #about-me {
   font-weight: 600;
 }
@@ -269,6 +273,17 @@ My Styles
 #my-pic {
   float: right;
   margin: 10px;
+}
+
+.position {
+  font-size: 120%;
+  font-weight: 600;
+  font-style: italic;
+  margin: -10px 0px;
+}
+
+.category {
+  font-weight: 600;
 }
 
 /*******************************************************************************
@@ -377,7 +392,6 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
-  padding-bottom: 375px;
 }
 
 #footer_wrap {
